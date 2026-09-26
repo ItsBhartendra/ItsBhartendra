@@ -6,7 +6,7 @@ I'm into exploring new AI tools and figuring out how to use them for everyday wo
 
 Right now I'm building up this GitHub with projects from my coursework and beyond.
 
-📫 Feel free to connect with me on [LinkedIn](www.linkedin.com/in/bhartendra)
+📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/bhartendra)
 
 <!--
 **ItsBhartendra/ItsBhartendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
