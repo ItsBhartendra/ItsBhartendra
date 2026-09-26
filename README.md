@@ -1,4 +1,12 @@
-## Hi there 👋
+### Hi, I'm Bhartendra
+
+I'm currently pursuing my Master's in Computer Science at Delhi University.
+
+I'm into exploring new AI tools and figuring out how to use them for everyday work — always trying to find better, faster ways to do things.
+
+Right now I'm building up this GitHub with projects from my coursework and beyond.
+
+📫 Feel free to connect with me on [LinkedIn](www.linkedin.com/in/bhartendra)
 
 <!--
 **ItsBhartendra/ItsBhartendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
